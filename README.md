@@ -14,6 +14,7 @@ Every issue will be allocated to particular guy/girl who's interested. It'll be 
 
 # Push to the Remote Repository
 `git remote add upstream https://github.com/goss-gowtham/collaborative-project.git`
+`git push origin master`
 
 # Pull Request
 After resolving the issue, you got to make Pull Request to this Original Repository.
